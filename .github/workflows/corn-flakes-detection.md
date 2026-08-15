@@ -19,6 +19,7 @@ engine:
 permissions:
   actions: read
   contents: read
+  copilot-requests: write
   attestations: read
   pull-requests: read
   issues: read
